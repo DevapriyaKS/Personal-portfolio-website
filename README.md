@@ -1,4 +1,4 @@
-# 🚀 Devapriya KS/ (DP) - Personal Portfolio Website
+#  Devapriya KS/ (DP) - Personal Portfolio Website
 
 Welcome to my personal portfolio! I'm *Devapriya KS (DP)* — a passionate web developer, creative technologist, and digital designer who loves crafting stunning user experiences with a blend of animation, interactivity, and sleek modern visuals.
 
@@ -11,13 +11,13 @@ Welcome to my personal portfolio! I'm *Devapriya KS (DP)* — a passionate web d
 - Typing text animation using Typed.js  
 - Background parallax and twinkling stars effect
 
-🧠 *About Me Flip Card*  
+ *About Me Flip Card*  
 - Smooth 3D flip animation  
 - Front side: About text  
 - Back side: My Profile image  
 - Glowing neon container with blur-glassmorphism
 
-🧰 *Skills Section*  
+ *Skills Section*  
 - Split into two responsive rows  
 - Flip-style cards with logos and animated progress bars  
 - My skills include: Python, Ruby, C, MERN Stack, Flutter, Blender, Photoshop
